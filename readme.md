@@ -1,6 +1,6 @@
 # Projeto Cardapio Digital - FATEC Itaquera
 
-Este e um projeto de aplicacao mobile desenvolvido em React Native com TypeScript, focado na interacao com componentes de selecao e gerenciamento de estado.
+Projeto de aplicacao mobile desenvolvido em React Native com TypeScript, focado na interacao com componentes de selecao e gerenciamento de estado.
 
 ## Descricao
 A aplicacao permite que o usuario selecione um lanche e uma bebida de um cardapio pre-definido. O sistema exibe as imagens e os precos dinamicamente e calcula o valor total do combo em um modal de resumo.
@@ -39,4 +39,4 @@ npx expo start
 * Layout: Uso de posicionamento absoluto para fixar o botao no rodape da tela.
 
 ## Autor
-Estudante da FATEC Itaquera - Prof. Miguel Reale.
+Jhon Deyvid Quispe Mamani - FATEC Itaquera - Prof. Miguel Reale.
